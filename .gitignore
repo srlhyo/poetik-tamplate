@@ -1,0 +1,11 @@
+# Ignore build output
+dist/
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore package lock file (npm)
+package-lock.json
+
+# Ignore Tailwind CSS configuration file
+tailwind.config.js
